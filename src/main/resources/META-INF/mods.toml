@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+#issueTrackerURL=""
+
+[[mods]]
+modId="fungal_wood"
+version="${file.jarVersion}"
+displayName="Fungal Wood"
+#updateJSONURL=""
+#displayURL=""
+#logoFile=""
+#credits=""
+authors=""
+description='''
+'''
+
+#[[dependencies.examplemod]]
+#    modId="forge"
+#    mandatory=true
+#    versionRange="[31,)"
+#    ordering="NONE"
+#    side="BOTH"
+#[[dependencies.examplemod]]
+#    modId="minecraft"
+#    mandatory=true
+#    versionRange="[1.15.2]"
+#    ordering="NONE"
+#    side="BOTH"

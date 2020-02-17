@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "fungal_wood:block/fungal_pressure_plate" },
+    "powered=true": { "model": "fungal_wood:block/fungal_pressure_plate_down" }
+  }
+}

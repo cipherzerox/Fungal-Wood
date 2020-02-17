@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "fungal_wood:block/fungal_door_bottom",
+    "top": "fungal_wood:block/fungal_door_top"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "fungal_wood",
+  "ingredients": [
+    {
+      	"item": "minecraft:mushroom_stem"
+    }
+  ],
+  "result": {
+    "item": "fungal_wood:fungal_planks",
+    "count": 4
+  }
+}

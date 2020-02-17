@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fungal_trap_door",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "fungal_wood:fungal_planks"
+    }
+  },
+  "result": {
+    "item": "fungal_wood:fungal_pressure_plate"
+  }
+}

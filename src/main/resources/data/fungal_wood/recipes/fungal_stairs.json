@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fungal_wood",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "fungal_wood:fungal_planks"
+    }
+  },
+  "result": {
+    "item": "fungal_wood:fungal_stairs",
+    "count": 4
+  }
+}

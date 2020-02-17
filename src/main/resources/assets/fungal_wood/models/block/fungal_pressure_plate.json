@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "fungal_wood:block/fungal_planks"
+  }
+}

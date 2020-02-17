@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "fungal_wood:block/fungal_slab" },
+    "type=top": { "model": "fungal_wood:block/fungal_slab_top" },
+    "type=double": { "model": "fungal_wood:block/fungal_planks" }
+  }
+}

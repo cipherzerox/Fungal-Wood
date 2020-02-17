@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "fungal_wood",
+  "ingredients": [
+    {
+      "item": "fungal_wood:fungal_planks"
+    }
+  ],
+  "result": {
+    "item": "fungal_wood:fungal_button"
+  }
+}

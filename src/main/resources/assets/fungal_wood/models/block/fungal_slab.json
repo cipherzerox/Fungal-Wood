@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "fungal_wood:block/fungal_planks",
+    "top": "fungal_wood:block/fungal_planks",
+    "side": "fungal_wood:block/fungal_planks"
+  }
+}
